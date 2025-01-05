@@ -1,16 +1,33 @@
 {
   "files": {
-    "main.css": "/artPortfolio/static/css/main.f855e6bc.css",
-    "main.js": "/artPortfolio/static/js/main.ad306ce4.js",
+    "main.css": "/artPortfolio/static/css/main.7caa3be7.css",
+    "main.js": "/artPortfolio/static/js/main.979abbbe.js",
     "static/js/488.9c92ff38.chunk.js": "/artPortfolio/static/js/488.9c92ff38.chunk.js",
-    "static/media/logo.svg": "/artPortfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/videoDemo.mp4": "/artPortfolio/static/media/videoDemo.ae75e7a6a8bf0d71cae1.mp4",
+    "static/media/Pot 2.png": "/artPortfolio/static/media/Pot 2.777e6742a66287db1900.png",
+    "static/media/Pot 3.png": "/artPortfolio/static/media/Pot 3.f6ec171a3bcc1894e629.png",
+    "static/media/lilac.png": "/artPortfolio/static/media/lilac.b6bc64a61bbbebc0bbb0.png",
+    "static/media/full color.png": "/artPortfolio/static/media/full color.058fdc142b324c641f24.png",
+    "static/media/no color.png": "/artPortfolio/static/media/no color.36ae458db485fd6e0d98.png",
+    "static/media/no sky.png": "/artPortfolio/static/media/no sky.c15801b29d006859384b.png",
+    "static/media/Infinite Scroll, Scans.jpg": "/artPortfolio/static/media/Infinite Scroll, Scans.338c6d2f83ab73b8b88e.jpg",
+    "static/media/images.jpg": "/artPortfolio/static/media/images.d19ac78b3904cb1a7346.jpg",
+    "static/media/The Little Red Planner.jpg": "/artPortfolio/static/media/The Little Red Planner.f456742766442db0a2b3.jpg",
+    "static/media/figmaDemo.mp4": "/artPortfolio/static/media/figmaDemo.b104a6ec2d6a18fb56b5.mp4",
+    "static/media/Puer Tea Ceremony, Book Form, Beauty Shot.jpg": "/artPortfolio/static/media/Puer Tea Ceremony, Book Form, Beauty Shot.3d8ba9650e40db81312d.jpg",
+    "static/media/Puer Tea Ceremony, Book Form, Info Images.jpg": "/artPortfolio/static/media/Puer Tea Ceremony, Book Form, Info Images.b5324af5ed7b719eef42.jpg",
+    "static/media/binding.jpeg": "/artPortfolio/static/media/binding.8c53e2bd6deded58d31b.jpeg",
+    "static/media/binding2.jpeg": "/artPortfolio/static/media/binding2.289f3090a76d30955bdd.jpeg",
+    "static/media/teapot book pic 5.jpg": "/artPortfolio/static/media/teapot book pic 5.193219c255be3bf7fd52.jpg",
+    "static/media/lasercut.jpeg": "/artPortfolio/static/media/lasercut.f4e9b774f229c8a0ec7b.jpeg",
+    "static/media/catPrinter.jpeg": "/artPortfolio/static/media/catPrinter.ac18900c86c104194743.jpeg",
     "index.html": "/artPortfolio/index.html",
-    "main.f855e6bc.css.map": "/artPortfolio/static/css/main.f855e6bc.css.map",
-    "main.ad306ce4.js.map": "/artPortfolio/static/js/main.ad306ce4.js.map",
+    "main.7caa3be7.css.map": "/artPortfolio/static/css/main.7caa3be7.css.map",
+    "main.979abbbe.js.map": "/artPortfolio/static/js/main.979abbbe.js.map",
     "488.9c92ff38.chunk.js.map": "/artPortfolio/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ad306ce4.js"
+    "static/css/main.7caa3be7.css",
+    "static/js/main.979abbbe.js"
   ]
 }
