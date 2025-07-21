@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/artPortfolio/static/css/main.50cd2ccc.css",
-    "main.js": "/artPortfolio/static/js/main.c77728ad.js",
+    "main.css": "/artPortfolio/static/css/main.941459b7.css",
+    "main.js": "/artPortfolio/static/js/main.8887e765.js",
     "static/js/488.9c92ff38.chunk.js": "/artPortfolio/static/js/488.9c92ff38.chunk.js",
     "static/media/videoDemo.mp4": "/artPortfolio/static/media/videoDemo.ae75e7a6a8bf0d71cae1.mp4",
     "static/media/video.mp4": "/artPortfolio/static/media/video.7099edaad266793c4e7e.mp4",
@@ -23,12 +23,12 @@
     "static/media/lasercut.jpeg": "/artPortfolio/static/media/lasercut.f4e9b774f229c8a0ec7b.jpeg",
     "static/media/catPrinter.jpeg": "/artPortfolio/static/media/catPrinter.ac18900c86c104194743.jpeg",
     "index.html": "/artPortfolio/index.html",
-    "main.50cd2ccc.css.map": "/artPortfolio/static/css/main.50cd2ccc.css.map",
-    "main.c77728ad.js.map": "/artPortfolio/static/js/main.c77728ad.js.map",
+    "main.941459b7.css.map": "/artPortfolio/static/css/main.941459b7.css.map",
+    "main.8887e765.js.map": "/artPortfolio/static/js/main.8887e765.js.map",
     "488.9c92ff38.chunk.js.map": "/artPortfolio/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50cd2ccc.css",
-    "static/js/main.c77728ad.js"
+    "static/css/main.941459b7.css",
+    "static/js/main.8887e765.js"
   ]
 }
